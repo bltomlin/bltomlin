@@ -37,7 +37,7 @@
 
 ### :fire: My Stats :
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bltomlin" alt="stats"/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bltomlin&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bltomlin&theme=buefy-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
 
