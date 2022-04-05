@@ -33,6 +33,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username" alt="stats"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bltomlin&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
 ### [![trophy](https://github-profile-trophy.vercel.app/?username=bltomlin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
