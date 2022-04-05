@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+
 ### [![trophy](https://github-profile-trophy.vercel.app/?username=bltomlin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
