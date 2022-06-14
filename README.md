@@ -20,7 +20,6 @@
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bltomlin&theme=buefy-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-# [![trophy](https://github-profile-trophy.vercel.app/?username=bltomlin&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
