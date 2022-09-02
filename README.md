@@ -22,7 +22,7 @@
 
 
 
-- 🔭 I’m currently working on MarkdownEditor
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with Professional Development
+- 🔭 I’m currently working on CinemaRoomManager
+- 🌱 I’m currently learning Java
+- 🤔 I’m looking for a full-time role as a Software Engineer
 - 📫 How to reach me: Message me on LinkedIn
