@@ -18,11 +18,4 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bltomlin&theme=buefy-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-
-
-- 🔭 I’m currently working on CinemaRoomManager
-- 🌱 I’m currently learning Java
-- 🤔 I’m looking for a full-time role as a Software Engineer
-- 📫 How to reach me: Message me on LinkedIn
+[![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bltomlin)](https://github.com/bltomlin/github-readme-stats)
