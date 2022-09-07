@@ -18,4 +18,9 @@
 
 ---
 ### :fire: My Stats :
-[![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bltomlin&show_icons=true)](https://github.com/bltomlin/github-readme-stats)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bltomlin" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bltomlin" alt="Brendan's GitHub Stats" />
+</a>
