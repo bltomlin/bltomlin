@@ -18,4 +18,4 @@
 
 ---
 ### :fire: My Stats :
-[![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bltomlin)](https://github.com/bltomlin/github-readme-stats)
+[![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bltomlin&show_icons=true)](https://github.com/bltomlin/github-readme-stats)
