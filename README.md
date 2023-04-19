@@ -14,12 +14,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-
----
-### :fire: My Stats :
-<a href="https://github.com/bltomlin/bltomlin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bltomlin&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
-</a>
-<a href="https://github.com/bltomlin/bltomlin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bltomlin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brendan's GitHub Stats" />
-</a>
