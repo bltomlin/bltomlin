@@ -2,11 +2,6 @@
   <a href="https://www.linkedin.com/in/brendan-tomlinson-aa3002a1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
-  
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=bltomlin&style=flat-square&color=blue" alt=""/>
-</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
