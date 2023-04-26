@@ -4,6 +4,8 @@ jobs:
   external-workflow:
     runs-on: ubuntu-latest
     steps:
-      - uses: abystoma/external-workflow@branch
+      - uses: abystoma/external-workflow
+        with:
+         ref: branch
       - name: Greetings
         run: echo "$(
